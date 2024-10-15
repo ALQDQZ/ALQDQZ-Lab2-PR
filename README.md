@@ -1,1 +1,1 @@
-# ALQDQZ-Lab2-PR
+# OSSDP-Lab2
