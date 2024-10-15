@@ -92,7 +92,7 @@ public class L2022211909_10_Test {
     @Test
     public void test10() {
         // 测试目的：验证只有整数的表达式的结果是否正确
-        // 测试用例："1+1"
+        // 测试用例："1+2"
         // 预期结果："2/1"
         Assert.assertEquals("3/1", solution.fractionAddition("1/1+2/1"));
     }
